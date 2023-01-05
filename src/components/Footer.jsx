@@ -2,12 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Footer() {
-  const [iconState, setIconState] = React.useState(false);
-
-  const iconurl = [
-    { grey: "assets/instagram-icon.svg", blue: "assets/instagram-blue.svg" },
-  ];
-
   function on(id) {
     if (id === "instagram") {
       return "assets/instagram-blue.svg";

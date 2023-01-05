@@ -12,7 +12,7 @@ function Featured() {
       repo: "https://github.com/JordanP005/Easybank",
     },
     {
-      image: "assets/blogr-1.png",
+      image: "assets/blogr-1.PNG",
       title: "Blogr",
       description:
         "Blogr is a modern publishing platform, the website was built by using a design reference image and assets provided",

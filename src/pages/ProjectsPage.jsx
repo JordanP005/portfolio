@@ -31,6 +31,29 @@ function ProjectsPage() {
       site: "https://crowdfund-project.vercel.app/",
       repo: "https://github.com/JordanP005/crowdfund-project",
     },
+    {
+      image: "assets/Scholance-1.png",
+      title: "Scholance",
+      description:
+        "A student freelance website that allows learners to complete their community service hours online",
+      site: "https://scholance-gadv6hcs4-jordanp005.vercel.app/",
+      repo: "https://github.com/JordanP005/Scholance",
+    },
+    {
+      image: "assets/Pollerade-1.png",
+      title: "Pollerade",
+      description:
+        "A website I built for website for a digital marketing agency",
+      site: "https://pollerade-rebuild.vercel.app/",
+      repo: "https://github.com/JordanP005/-Pollerade-rebuild/",
+    },
+    {
+      image: "assets/Adsnap-1.png",
+      title: "Adsnap",
+      description: "A multipage website for Adsnap a online advertising agency",
+      site: "https://dropdown-app.vercel.app/",
+      repo: "https://github.com/JordanP005/dropdown-app/",
+    },
   ];
 
   return (
